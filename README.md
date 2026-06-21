@@ -27,7 +27,7 @@ node two_sum.js
 
 - [x] Binary Search
 - [x] Two Sum
-- [ ] Merge Sort
+- [x] Merge Sort
 - [ ] Linked List Reversal
 - [ ] BFS / DFS
 
