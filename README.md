@@ -29,7 +29,7 @@ node two_sum.js
 - [x] Two Sum
 - [x] Merge Sort
 - [ ] Linked List Reversal
-- [ ] BFS / DFS
+- [x] BFS / DFS
 
 ---
 
